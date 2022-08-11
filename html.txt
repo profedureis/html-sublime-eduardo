@@ -1,0 +1,18 @@
+HTML
+
+<h1>De princesa a roqueiros: o tênis que é símbolo de estilo há mais de 100 anos</h1>
+
+<h2>Conheça a história do calçado que conquistou públicos de todos os tipos, de jogadores de basquete a princesas e astros do rock.</h2>
+
+<p>Unanimidade na moda é algo raro, mas se tem um calçado que flerta com esse conceito é o All Star. A marca foi criada em 1908 e desde então acumula histórias que passeiam por vários temas, do esporte à música.</p>
+
+<p>Tudo começou em Maldens, <strong>Massachussetts</strong>, quando o empresário Marquis Mills Converse inaugurou a “Converse Rubber Show Company”.
+
+<p>Em menos de dois anos, a empresa já produzia cerca de 4 mil pares de sapato por dia.</p>
+
+
+======================
+
+CSS
+
+body {background: #12e7be;}
